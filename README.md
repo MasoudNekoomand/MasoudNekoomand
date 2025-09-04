@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @MasoudNekoomand
 - 👀 I’m really interested in programming
 - 🌱 I’m currently learning JavaScript and React.js
-- 💞️ I’m looking to collaborate on you
 - 📫 You can reach me on Gmail --> masoodnekoomand@gmail.com
 
 <!---
